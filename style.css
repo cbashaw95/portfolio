@@ -3,3 +3,68 @@ h1 {
     font family: 'times new roman';
     font-size: 20px;
 }
+body{
+    background-color: gray;
+    background-size:cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.after-body{
+    width: 90%;
+    margin:auto;
+}
+
+.title{
+    color: crimson;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 85px;
+    font-size: 65px;
+}
+
+/*
+links
+*/
+
+
+a{
+    text-decoration: none;
+    color:blue;
+    font-size: 20px;
+    font-weight: 750;
+}
+a:active{
+    color:red
+}
+
+
+/*
+all h4 tags//
+*/
+
+.main-div{
+    background-color:gray;
+    width: 90%;
+    height: 50%;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h4{
+    padding-top: 10px;
+    color: salmon;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+
+
+h2{
+    color:slateblue
+}
+
